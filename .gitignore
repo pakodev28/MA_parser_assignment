@@ -160,3 +160,5 @@ cython_debug/
 #.idea/
 explore_html.html
 work.txt
+another_test_asin.py
+test_asin.py
